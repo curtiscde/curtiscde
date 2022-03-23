@@ -1,6 +1,8 @@
 name: Latest Blog Posts
 on:
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   update-readme-with-blog-posts:
