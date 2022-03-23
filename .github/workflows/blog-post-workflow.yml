@@ -1,0 +1,15 @@
+name: Latest Blog Posts
+on:
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog-posts:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in curtiscode.dev posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.curtiscode.dev/index.xml"
