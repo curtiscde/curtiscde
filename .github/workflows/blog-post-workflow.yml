@@ -16,4 +16,4 @@ jobs:
       - name: Pull in curtiscode.dev posts
         uses: curtiscde/blog-post-workflow@f
         with:
-          feed_list: "https://deploy-preview-95--curtistimson.netlify.app/index.xml"
+          feed_list: "https://curtiscode.dev/index.xml"
