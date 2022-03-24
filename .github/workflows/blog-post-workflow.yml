@@ -1,10 +1,8 @@
 name: Latest Blog Posts
 on:
+  schedule:
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
 jobs:
   update-readme-with-blog-posts:
