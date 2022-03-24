@@ -8,6 +8,10 @@
 
 I'm Curtis, a Senior Software Engineer @ [Tesco Technology](https://www.tesco.com), based in London 🇬🇧
 
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **curtiscde/curtiscde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
