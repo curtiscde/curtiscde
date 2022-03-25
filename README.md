@@ -8,7 +8,7 @@
 
 I'm Curtis, a Senior Software Engineer @ [Tesco Technology](https://www.tesco.com), based in London 🇬🇧
 
-### 📝 Latest Blog Posts
+#### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Using Codecov within a monorepo](https://www.curtiscode.dev/post/tools/codecov-monorepo/)
 - [Displaying Strava stats using webhooks &amp; GitHub Actions](https://www.curtiscode.dev/post/project/displaying-strava-stats-using-webhooks/)
