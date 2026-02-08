@@ -11,11 +11,11 @@ I'm Curtis, a Senior Software Engineer @ [Tesco Technology](https://www.tesco.co
 
 #### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Turning my London Marathon fundraiser into a sponsorable route](https://www.curtiscode.dev/post/turning-my-london-marathon-fundraiser-into-a-sponsorable-route)
 - [My terminal setup and commands I use on a daily basis when working with GitHub](https://www.curtiscode.dev/post/terminal-commands-i-use-on-a-daily-basis)
 - [Displaying latest posts on your GitHub profile](https://www.curtiscode.dev/post/github-profile-latest-posts)
 - [Using Codecov within a monorepo](https://www.curtiscode.dev/post/codecov-monorepo)
 - [Displaying Strava stats using webhooks &amp; GitHub Actions](https://www.curtiscode.dev/post/displaying-strava-stats-using-webhooks)
-- [Filtering duplicate data points on Chart.js](https://www.curtiscode.dev/post/chartjs-filtering-duplicate-data)
 <!-- BLOG-POST-LIST:END -->
 
 I'm running the **TCS London Marathon 2026** and raising money for **Cancer Research UK**.
