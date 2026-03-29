@@ -18,5 +18,5 @@ I'm Curtis, a Senior Software Engineer @ [Tesco Technology](https://www.tesco.co
 - [Displaying Strava stats using webhooks &amp; GitHub Actions](https://www.curtiscode.dev/post/displaying-strava-stats-using-webhooks)
 <!-- BLOG-POST-LIST:END -->
 
-I'm running the **TCS London Marathon 2026** and raising money for **Cancer Research UK**.
-Donate here: [https://londonmarathon.curtiscode.dev](https://londonmarathon.curtiscode.dev)
+🏃 I'm running the **TCS London Marathon 2026** for **Cancer Research UK** - please consider sponsoring me!
+[https://londonmarathon.curtiscode.dev](https://londonmarathon.curtiscode.dev)
