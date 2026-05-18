@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/@curtiscde-171515?style=flat&labelColor=171515&logo=github&logoColor=white&link=https://github.com/curtiscde)](https://github.com/curtiscde)
 [![Bluesky](https://img.shields.io/badge/@curtiscode.dev-2d5d83?style=flat&labelColor=2d5d83&logo=bluesky&logoColor=white&link=https://bsky.app/profile/curtiscode.dev)](https://bsky.app/profile/curtiscode.dev)
-[![X](https://img.shields.io/badge/@curtcode-000000?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/curtcode)](https://x.com/curtcode)
+[![X](https://img.shields.io/badge/@curtiscodedev-000000?style=flat&labelColor=000000&logo=x&logoColor=white&link=https://twitter.com/curtcode)](https://x.com/curtiscodedev)
 [![Stackoverflow](https://img.shields.io/badge/curtis-ef8236?style=flat&labelColor=ef8236&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/370103/curtis)](https://stackoverflow.com/users/370103/curtis)
 [![Website](https://img.shields.io/badge/-curtiscode.dev-4a00ff?style=flat&logo=Google-Chrome&logoColor=white&link=https://curtiscode.dev)](https://curtiscode.dev)
 [![LinkedIn](https://img.shields.io/badge/-curtis--timson-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/curtis-timson)](https://www.linkedin.com/in/curtis-timson)
@@ -18,5 +18,5 @@ I'm Curtis, a Senior Software Engineer @ [Tesco Technology](https://www.tesco.co
 - [Displaying latest posts on your GitHub profile](https://www.curtiscode.dev/post/github-profile-latest-posts)
 <!-- BLOG-POST-LIST:END -->
 
-🏃 I'm running the **TCS London Marathon 2026** for **Cancer Research UK** - please consider sponsoring me!
+🏃 I ran the **TCS London Marathon 2026** for **Cancer Research UK** - please consider sponsoring me!
 [https://londonmarathon.curtiscode.dev](https://londonmarathon.curtiscode.dev)
